@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: picoPlaca
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cristhian
+Implementation-Vendor-Id: com.stackbuilders
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/stackbuilder
+ sPicoPlaca/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
